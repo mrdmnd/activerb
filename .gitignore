@@ -19,3 +19,4 @@ wheels/
 # Local experiment runs (large, not versioned)
 runs/
 modal_results/
+datasets/
